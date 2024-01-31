@@ -21,4 +21,4 @@ O objetivo é melhorar a estrutura do código, introduzir especializações de c
 
 Sugestões de melhorias apresentadas em aula: Número de matricula dos Colaboradores, Gênero, Data de Contratação, FGTS, 13° Salário (Caso CLT), Modelo de contratação (CLT ou PJ), Cálculos como Vale transporte, alimentação e refeição e a Senioridade (Estágio, Junior Pleno, Sênior).
 
-![Diagrama de Classes] (https://lucid.app/publicSegments/view/cfe657b9-735f-44d0-a79a-c92f6dcf17b3/image.png)
+![Diagrama de Classes](https://lucid.app/publicSegments/view/169f206f-6fb6-4d17-b8cd-d46477a1b87a/image.png)
